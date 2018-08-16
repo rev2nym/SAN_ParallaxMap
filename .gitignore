@@ -1,0 +1,19 @@
+/.vscode/
+/index.html
+/package.json
+/Game.rpgproject
+/img/*
+!/img/parallaxes/
+/img/parallaxes/*.*
+!/img/parallaxes/3072_3072.png
+!/img/parallaxes/6144_6144.png
+!/img/parallaxes/12288_12288.png
+/audio/
+# /data/
+/fonts/
+/icon/
+/movies/
+/save/
+/js/*
+!/js/plugins.js
+!/js/plugins/

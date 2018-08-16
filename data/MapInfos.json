@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"expanded":true,"name":"エントリー","order":1,"parentId":0,"scrollX":1081.3333333333333,"scrollY":639.3333333333334},
+{"id":2,"expanded":false,"name":"ループなし 3072*3072","order":2,"parentId":0,"scrollX":1990.6666666666667,"scrollY":1076.6666666666667},
+{"id":3,"expanded":false,"name":"ループなし 6144*6144","order":3,"parentId":0,"scrollX":4198.666666666667,"scrollY":1076.6666666666667},
+{"id":4,"expanded":false,"name":"ループなし 12288*12288","order":4,"parentId":0,"scrollX":1082,"scrollY":624},
+{"id":5,"expanded":false,"name":"ループあり 3072*3072","order":5,"parentId":0,"scrollX":1081.3333333333333,"scrollY":896.6666666666666},
+{"id":6,"expanded":false,"name":"ループあり 6144*6144","order":6,"parentId":0,"scrollX":1081.3333333333333,"scrollY":916.6666666666666},
+{"id":7,"expanded":false,"name":"ループあり 12288*12288","order":7,"parentId":0,"scrollX":1082,"scrollY":624}
+]
